@@ -1,0 +1,2 @@
+# miniBlockchain
+A sample blockchain
